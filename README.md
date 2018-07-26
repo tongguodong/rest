@@ -1,5 +1,5 @@
 # rest
-rest
+
 package main
 
 	import (
