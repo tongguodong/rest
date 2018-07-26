@@ -1,8 +1,7 @@
 # rest
 
 package main
-
-	import (
+import (
 		"fmt"
 		"github.com/julienschmidt/httprouter"
 		"log"
