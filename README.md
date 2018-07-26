@@ -1,6 +1,6 @@
 # rest
 
-package main
+#package main
 
 import (
 		"fmt"
